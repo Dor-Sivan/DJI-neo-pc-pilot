@@ -1,0 +1,10 @@
+{
+  "name": "neo-pilot-telemetry",
+  "version": "1.0.0",
+  "description": "Live telemetry from DJI Fly's flight log (decrypts it with dji-log-parser-js)",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "dji-log-parser-js": "^0.5.7"
+  }
+}

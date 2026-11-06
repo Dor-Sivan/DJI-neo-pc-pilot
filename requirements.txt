@@ -1,0 +1,5 @@
+# Python 3.10+. Also needed: Node.js 18+ (npm install in neo_pilot/telemetry_js), adb and the scrcpy server (bin/)
+numpy>=1.24
+opencv-python>=4.8
+av>=12.0          # PyAV: decodes the phone's video stream
+pandas>=2.0       # only for replaying recordings (neo_pilot/drone/replay.py)

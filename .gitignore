@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+node_modules/
+recordings/
+bin/*
+!bin/README.md
+.env
